@@ -1,14 +1,23 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
+
+<h2>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
+
+---
+
+### :man_technologist: About Me :
 
 - :telescope: Pre-final year student at University of Petroleum and Energy Studies.
 
-- :seedling: Exploring front-end development.
+- :seedling: Watch me code at <a href = "https://www.hackerrank.com/anubhavSingh3301">Hacker Rank</a>
 
 - :zap: Skilled at Data Structures and Algorithms.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-singh-chandel/)
+- :mailbox:Connect with me on  [![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-singh-chandel/)
 
 ---
 
@@ -23,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats :
