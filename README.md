@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AnubhavSinghChandel
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me anubhavsinghchande1498@gmail.com
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>
 
 <!---
 AnubhavSinghChandel/AnubhavSinghChandel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
