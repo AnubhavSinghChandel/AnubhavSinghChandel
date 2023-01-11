@@ -26,7 +26,7 @@
   <a href = "https://www.java.com/en/"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <a href = "https://www.cprogramming.com"><img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <a href = "https://www.cprogramming.com"><img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
-  <a href = "https://flutter.dev"><img src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+  <a href = "https://git-scm.com"><img src=https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="React" **alt="Git" width="40" height="40"/>
   <a href = "https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   <a href = "https://www.w3.org/html/"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
