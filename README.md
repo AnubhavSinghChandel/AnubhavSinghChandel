@@ -13,7 +13,7 @@
 
 - :telescope: Pre-final year student at University of Petroleum and Energy Studies.
 
-- :seedling: Watch me code at <a href = "https://leetcode.com/Anubhav_Singh_Chandel/">Leet Code</a>
+- :seedling: Watch me code at <a href = "https://leetcode.com/yuuto_is_lmao_ded/">Leet Code</a>
 
 - :zap: Skilled at Data Structures and Algorithms.
 
