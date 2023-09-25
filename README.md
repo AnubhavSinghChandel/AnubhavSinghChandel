@@ -11,7 +11,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: Pre-final year student at University of Petroleum and Energy Studies.
+- :telescope: Final year student at University of Petroleum and Energy Studies.
 
 - :seedling: Watch me code at <a href = "https://leetcode.com/yuuto_is_lmao_ded/">Leet Code</a>
 
