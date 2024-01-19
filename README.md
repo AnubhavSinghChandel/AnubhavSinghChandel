@@ -2,40 +2,45 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
 
-<h2>
+<!-- <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
+</h1> -->
+
+### Hey there <img src="https://camo.githubusercontent.com/b8fead6533e883d4bcc925eaa028c9815dd19d911ea5ed1b9ce8107faacfbafb/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6465616c7769746869746e6f77706172726f742e676966" width="40">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+### About Me : <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="40">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="30"> Final year student at University of Petroleum and Energy Studies.
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="30">Watch me code at <a href = "https://leetcode.com/yuuto_is_lmao_ded/">Leet Code</a>
+
+<a href="https://www.linkedin.com/in/anubhav-singh-chandel/"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"></a>
 
 ---
 
-### :man_technologist: About Me :
+### <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="60"> Languages and Tools :
 
-- :telescope: Final year student at University of Petroleum and Energy Studies.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="Java" alt="JavaScript" width="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"alt= "VSCode"  width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" atl="Node" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="React" width="60">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" alt="HTML" width="60">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" alt="CSS" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" title="GitHub" **alt="Git" width="60"/>
 
-- :seedling: Watch me code at <a href = "https://leetcode.com/yuuto_is_lmao_ded/">Leet Code</a>
-
-- :zap: Skilled at Data Structures and Algorithms.
-
-- :mailbox:Connect with me on  [![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-singh-chandel/)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <a href = "https://www.java.com/en/"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <a href = "https://www.cprogramming.com"><img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-  <a href = "https://www.cprogramming.com"><img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
-    <a href = "https://reactjs.org"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-  <a href = "https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-  <a href = "https://www.w3.org/html/"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <a href = "https://git-scm.com"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="60">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" alt="MongoDB" width="60">
+ 
 </div>
 
 ---
 
-### :fire: My Stats :
+### <img src="https://user-images.githubusercontent.com/74038190/216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c.gif" width="60" /> My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnubhavSinghChandel&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSinghChandel&layout=compact&theme=vision-friendly-dark)](https://github.com/AnubhavSinghChandel/github-readme-stats)
