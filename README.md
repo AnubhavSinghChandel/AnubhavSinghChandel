@@ -41,6 +41,8 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c.gif" width="60" /> My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnubhavSinghChandel&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnubhavSinghChandel&theme=synthwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSinghChandel&layout=compact&theme=vision-friendly-dark)](https://github.com/AnubhavSinghChandel/github-readme-stats)
+![Anubhav's Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSinghChandel&show_icons=true&theme=synthwave)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSinghChandel&layout=compact&theme=vision-friendly-dark)](https://github.com/AnubhavSinghChandel/github-readme-stats) -->
