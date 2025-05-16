@@ -1,58 +1,45 @@
-# 👋 Hello, I'm Anubhav
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 
-Welcome to my GitHub! I'm a backend developer based in India, passionate about building scalable, resilient, and production-grade systems using Java, Spring Boot, and modern cloud-native technologies.
+# Hey there <img src="https://camo.githubusercontent.com/b8fead6533e883d4bcc925eaa028c9815dd19d911ea5ed1b9ce8107faacfbafb/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6465616c7769746869746e6f77706172726f742e676966" width="40"/>
 
----
+</div>
 
-## 🚀 What I'm Working On
+### About Me
 
-- 🌱 Currently learning advanced **Microservices Architecture**
-  - ✅ Eureka (Service Discovery)
-  - ✅ OpenFeign (Inter-Service Communication)
-  - ✅ Resilience4j (Fault Tolerance)
-  - ✅ API Gateways & Circuit Breakers
-  - ✅ Centralized Configuration (Git + Spring Cloud Config)
-  - ✅ Distributed Tracing (Zipkin, Micrometer)
-  - ✅ Centralized Logging (ELK Stack)
-  - 🔜 Event-Driven Architecture with **Apache Kafka**
-  - 🔜 Containerization & Orchestration with **Docker & Kubernetes**
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="32"/>Full Stack developer
 
----
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="30"/> Spending days learning new things, building projects and looking for opportunities.
 
-## 🛠️ Tech Stack
+<a href="https://www.linkedin.com/in/anubhav-singh-chandel/"> 
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"/>
+</a>
 
-**Languages:**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### Languages and Tools <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/>
 
-**Frameworks & Tools:**  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
-![OpenFeign](https://img.shields.io/badge/-OpenFeign-5A29E4?style=flat)  
-![Resilience4j](https://img.shields.io/badge/-Resilience4j-FFD700?style=flat)  
-![Kafka](https://img.shields.io/badge/-ApacheKafka-231F20?style=flat&logo=apache-kafka)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="Java" alt="JavaScript" width="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"alt= "VSCode"  width="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" atl="Node" width="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="React" width="60"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" alt="HTML" width="60"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" alt="CSS" width="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Git" width="60"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" alt="express" width="60"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" alt="MongoDB" width="60"/>
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+</div>
 
----
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="100"/>
 
-## 📌 Notable Projects
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnubhavSinghChandel&theme=synthwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-- [🔧 Microservices Architecture Example](#) – A Spring Boot-based microservice app showcasing Eureka, OpenFeign, Resilience4j, API Gateway, and centralized config.
-- [💬 Blog App](#) – REST API for a blogging platform built with Spring Boot and JPA.
-- [⚡ Kafka Demo App](#) – A Kafka-based service for real-time message processing (in progress).
+![Anubhav's Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSinghChandel&show_icons=true&theme=synthwave)
 
----
+<br/>
+<br/>
 
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Email](mailto:your.email@example.com)
-
----
-
-📍 _Always learning, always building. Let’s grow together!_
+<div id="footer" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
+</div>
