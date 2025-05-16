@@ -31,13 +31,3 @@ Spending days learning new things, building projects and looking for opportuniti
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" alt="Express" width="60" />
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" alt="MongoDB" width="60" />
 </Images>
-
-### Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnubhavSinghChandel&theme=synthwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Anubhav's Github Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSinghChandel&show_icons=true&theme=synthwave)
-
-<Images>
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
-</Images>
