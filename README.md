@@ -12,9 +12,9 @@ Full Stack Developer
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="30" />
 Spending days learning new things, building projects and looking for opportunities.
 
-<Link href="https://www.linkedin.com/in/anubhav-singh-chandel/">
+<a href="https://www.linkedin.com/in/anubhav-singh-chandel/">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40" />
-</Link>
+</a>
 
 ### Languages and Tools
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
