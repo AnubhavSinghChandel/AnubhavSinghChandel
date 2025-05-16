@@ -1,6 +1,6 @@
-<Image id="header" align="center">
+<Images id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-</Image>
+</Images>
 
 # Hey there
 
@@ -38,6 +38,6 @@
 <br/>
 <br/>
 
-<Image>
+<Images>
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
-</Image>
+</Images>
