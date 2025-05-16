@@ -1,7 +1,8 @@
 <Image id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-# Hey there
 </Image>
+
+# Hey there
 
 ### About Me
 
@@ -15,7 +16,7 @@
 
 ### Languages and Tools <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/>
 
-<Images>
+<Images align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" title="Java" alt="JavaScript" width="60"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"alt= "VSCode"  width="60"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" atl="Node" width="60"/>
